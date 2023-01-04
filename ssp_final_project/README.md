@@ -1,6 +1,6 @@
-## 运行方式 (Linux下指定GPU)
+## 运行方式
 ```
-CUDA_VISIBLE_DEVICES=0 python interact.py
+python interact.py
 ```
 ## 模型checkpoint下载链接
 https://box.nju.edu.cn/d/7b17194919e4461bad6f/
